@@ -11,3 +11,16 @@ Inserting new elements into the heap.
 Popping the root element and restoring the heap property.
 Building a min-heap from an unsorted/ random array.
 Retrieving the root element of the heap without removal.
+
+Output:
+Initial heap:
+Heap: [1, 100, 30, 499, 800, 71]
+
+Heap after inserting 0:
+Heap: [0, 100, 1, 499, 800, 71, 30]
+
+Popped root: 0
+Heap after popping root:
+Heap: [1, 100, 30, 499, 800, 71]
+
+Current root: 1
